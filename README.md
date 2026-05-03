@@ -28,4 +28,4 @@ Python · Playwright · PyObjC · TypeScript · Git · Linux · Netlify
 
 ## Get in touch
 
-[LinkedIn](https://linkedin.com/in/kai-kempe-04514a27a) · [Malt](https://malt.de) · kai@kempe-family.de
+[LinkedIn](https://linkedin.com/in/kai-kempe-04514a27a) · kai@kempe-family.de
