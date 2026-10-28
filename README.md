@@ -24,7 +24,7 @@ Python · TypeScript · Node.js · Swift · C · SQLite · pytest · GitHub Acti
 
 - Dual degree, Business Administration and Computer Science & AI, IE University (2025 to 2030)
 - IB Diploma, Munich International School (2025)
-- Robotics Intern (three-week work experience), Agile Robots, Munich, June 2023: programmed and tested a robot task in Python
+- Robotics Intern (three-week work experience), Agile Robots, Munich, June 2023: with a team of interns, programmed a pick-and-place robot task in Python, tested in simulation and validated on the robot
 - German and English (native), Spanish (intermediate)
 
 ## Get in touch
