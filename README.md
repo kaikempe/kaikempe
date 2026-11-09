@@ -1,7 +1,8 @@
 # Hey, I'm Kai 👋
 
 Second-year dual-degree student in Business Administration and Computer Science & AI at IE University, Madrid.
-I build and ship software end to end, mostly small tools that save people time.
+I build and ship software end to end with AI coding assistants (Claude Code), mostly small tools that save people time.
+I design the system, review every change and test it; the assistant writes the code.
 
 ## Projects
 
@@ -11,13 +12,17 @@ I build and ship software end to end, mostly small tools that save people time.
   and a website on Netlify. Built solo.
 - **[Performance HUD](https://github.com/kaikempe/performance-hud)**: a free, open-source native macOS menu-bar HUD for
   Apple Silicon (CPU, GPU, RAM, temperatures, fans, power, disk, battery, network). Swift, about 3,800 lines.
-- **Road to a Million Beers**: a WhatsApp bot and stats dashboard for a group chat counting to one million beers.
-  TypeScript and Node.js with SQLite, run under pm2 with a recovery runbook. About 8,800 lines.
+- **[Road to a Million Beers](https://github.com/kaikempe/road-to-a-million-beers)**: a WhatsApp bot and stats
+  dashboard for a group chat counting to one million beers. TypeScript and Node.js with SQLite, run under pm2 with a
+  health watchdog and a recovery runbook. About 8,400 lines. The repo explains the design; the source stays private.
+- **[Spotify ⇄ Apple Music sync](https://github.com/kaikempe/spotify-apple-sync)**: keeps a shared Spotify playlist
+  and an Apple Music playlist in sync in both directions, hourly via launchd. Python plus a Playwright helper;
+  open source.
 
 ## Stack
 
 ```
-Python · TypeScript · Node.js · Swift · C · SQLite · pytest · GitHub Actions · Netlify · pm2 · launchd
+Python · TypeScript · Node.js · Swift · C · SQLite · pytest · Playwright · GitHub Actions · Netlify · pm2 · launchd
 ```
 
 ## Background
