@@ -30,7 +30,7 @@ Python · TypeScript · Node.js · Swift · C · SQLite · pytest · Playwright 
 - Dual degree, Business Administration and Computer Science & AI, IE University (2025 to 2030)
 - IB Diploma, Munich International School (2025)
 - Robotics Intern (three-week work experience), Agile Robots, Munich, June 2023: with a team of interns, programmed a pick-and-place robot task in Python, tested in simulation and validated on the robot
-- German and English (native), Spanish (intermediate)
+- German and English (native)
 
 ## Get in touch
 
