@@ -10,6 +10,11 @@ I design the system, review every change and test it; the assistant writes the c
   It syncs Blackboard grades, attendance, deadlines and announcements in the background, computes the GPA like the
   registrar and merges Pearson MyLab grades. About 40,000 lines of Python plus 16,000 lines of tests, auto-update,
   and a website on Netlify. Built solo.
+- **[Personal Manager](https://github.com/kaikempe/personal-manager-public)**: the local planning system I use every
+  day. One dashboard over my calendar (Apple Calendar or ICS feeds), deadlines, tasks and projects. Mail turns into
+  suggestions that wait for my yes, notes from my phone are filed automatically, and a Claude-based chat answers
+  "what should I do now?" and proposes changes I confirm with a click. Plugins, a demo mode, tests on macOS and Linux
+  in CI. About 6,000 lines of Python plus 1,000 lines of tests; open source (MIT).
 - **[Performance HUD](https://github.com/kaikempe/performance-hud)**: a free, open-source native macOS menu-bar HUD for
   Apple Silicon (CPU, GPU, RAM, temperatures, fans, power, disk, battery, network). Swift, about 3,800 lines.
 - **[Road to a Million Beers](https://github.com/kaikempe/road-to-a-million-beers)**: a WhatsApp bot and stats
